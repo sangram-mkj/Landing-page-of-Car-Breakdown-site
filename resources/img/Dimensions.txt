@@ -1,0 +1,3 @@
+Customers: 150*150
+
+Cities: 900*600
